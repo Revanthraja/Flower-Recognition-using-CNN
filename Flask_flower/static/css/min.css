@@ -1,0 +1,14 @@
+body{
+
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ height: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-decoration: aliceblue;
+ background-image: url('https://images.hdqwalls.com/download/john-deere-tractor-in-flower-farm-4k-p3-3840x2160.jpg');
+
+}
